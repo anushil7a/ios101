@@ -19,6 +19,7 @@ The following **required** functionality is completed:
 
 Here's a walkthrough of implemented user stories:
 
+![ezgif com-video-to-gif](https://github.com/anushil7a/ios101/assets/87778762/bf61a236-e53e-4475-a84c-04258075dfad)
 
 
 <img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
