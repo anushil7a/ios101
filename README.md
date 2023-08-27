@@ -6,6 +6,8 @@ Submitted by: **Anushil Adhikari**
 
 Time spent: **2** hours spent in total
 
+
+
 ## Required Features
 
 The following **required** functionality is completed:
@@ -17,7 +19,13 @@ The following **required** functionality is completed:
 
 Here's a walkthrough of implemented user stories:
 
+
+
 <img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
+
+https://github.com/anushil7a/ios101/assets/87778762/e691f7a8-0a94-4118-a79a-fe66507a059b
+
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  
