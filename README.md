@@ -28,13 +28,16 @@ GIF created with ...
 
 ## App Brainstorming (Step 4)
 
+YouTube: One of the platform's primary strengths is its ability to host extended videos, catering to diverse content requirements ranging from educational lectures to comprehensive documentaries. Moreover, its advanced algorithmic recommendations often align accurately with user preferences, ensuring a tailored viewing experience. TikTok: TikTok boasts an intuitive user interface, making navigation and content creation remarkably straightforward. Furthermore, it's commendable how the platform accommodates a wide spectrum of content, ensuring that there's something for everyone. Twitter: My preferred feature on Twitter is undoubtedly the News section, which has become my principal source for current events and updates. Additionally, the platform's provision for unrestricted communication, all without any monetary commitment, is particularly noteworthy.
+
 ## Notes
 
 Describe any challenges encountered while building the app.
+I encountered difficulties while attempting to utilize the "change" button to alter the background color in Xcode. The issue not only presented an error but also unexpectedly terminated my session on one occasion. However, after conducting thorough research and understanding the root cause of the problem, I was able to successfully implement the functionality, and the error was subsequently resolved.
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2023] [Anushil Adhikari]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
