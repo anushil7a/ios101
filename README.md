@@ -2,7 +2,7 @@
 
 Submitted by: **Anushil Adhikari**
 
-**RandomColor** is an app that... [TODO] 
+**RandomColor** is an app that changes the app background color randomly!
 
 Time spent: **2** hours spent in total
 
